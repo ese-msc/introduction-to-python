@@ -1,0 +1,33 @@
+{
+    "name": "Lecture 2",
+    "endpoint": "ese/ug218/su18/lecture2",
+    "src": [
+        "lecture.ipynb"
+    ],
+    "tests": {
+      "okpy-tests/exercise-2_1.py": "ok_test",
+      "okpy-tests/exercise-2_2.py": "ok_test",
+      "okpy-tests/exercise-2_3.py": "ok_test",
+      "okpy-tests/exercise-2_4.py": "ok_test",
+      "okpy-tests/exercise-2_5.py": "ok_test",
+      "okpy-tests/exercise-2_6.py": "ok_test",
+      "okpy-tests/exercise-2_7.py": "ok_test",
+      "okpy-tests/exercise-2_8.py": "ok_test",
+      "okpy-tests/exercise-2_9.py": "ok_test",
+      "okpy-tests/exercise-2_10.py": "ok_test",
+      "okpy-tests/exercise-2_11.py": "ok_test",
+      "okpy-tests/exercise-2_12.py": "ok_test",
+      "okpy-tests/exercise-2_13.py": "ok_test"
+    },
+    "default_tests": [
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "analytics",
+        "lock",
+        "unlock",
+        "grading",
+        "backup"
+    ]
+}
