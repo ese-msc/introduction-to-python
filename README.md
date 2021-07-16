@@ -1,6 +1,6 @@
 # Introduction to Python
 
-Welcome to **Introduction to Python**! Python is one of the most popular and powerful programming languages. It is used extensively in computational and data science, and you will use it in almost all modules during your MSc studies. Therefore, you need to familiarise yourself with Python before your MSc journey.
+Welcome to **Introduction to Python**! Python is one of the most popular and powerful programming languages. It is used extensively in computational and data science, and you will use it in almost all modules during your MSc studies. This self-guided course will help you to learn the basics of Python before your MSc journey.
 
 ## How to run this course
 
@@ -18,7 +18,7 @@ JUPYTERHUB_LINK
 
 ### 2. Binder
 
-You can access Binder by clicking on the following *Binder badge*:
+You can access Binder by clicking on the *Binder badge*:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ese-msc/introduction-to-python/HEAD?filepath=index.ipynb)
 
@@ -44,6 +44,23 @@ $ conda activate intro-to-python
 $ jupyter notebook &
 ```
 
+## Testing
+
+In lectures, after (almost) each exercise, you will notice that there are two cells containing some code. In these cells, we test your solution using two different testing packages:
+
+1. **PyBryt**, which analyses your solution and provides you feedback on what is correct in your implementation, as well as what is wrong. Please read PyBryt's feedback carefully and address the `ERROR` messages by modifying your solution.
+2. **okpy**, which validates your final solution and provides you a mark for it.
+
+It is important to follow the instructions for each exercise exactly and do not change the names of variables, functions, or classes so that tests can analyse your code. Besides, please do not change the content of any of the testing cells.
+
 ## Support
 
-If you require support, have questions, want to report a bug, or want to suggest an improvement, please raise an issue in the course repository.
+**We encourage questions!!!** If you require support, have questions, want to report a bug, or want to suggest an improvement, please raise an issue in the [course repository](https://github.com/ese-msc/introduction-to-python).
+
+> **Q:** I don't know where to ask my question. It might be related to something else, but I'm unsure. What should I do?  
+> **A:** Open an issue in this repository. This is a safe, respectful space to ask questions and open issues.
+
+> **Q:** I've never opened an issue. How do I do it?  
+> **A:** Click the `Issues` tab next to top of the page, then click the green `New Issue` button. Ask your question in the title and comment fields, then click  `Submit new issue`. Congratulations, you submitted your question! We will try to get back to you shortly. Tip: If you provide [helpful and detailed info] https://fangohr.github.io/computing/smartquestion.html), it is easier for us to understand your question.
+
+Are you a community member that enjoys sharing your knowledge and helping others solve problems? We encourage you to respond to these issues.
