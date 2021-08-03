@@ -2,7 +2,7 @@
 
 Welcome to **Introduction to Python**! Python is one of the most popular and powerful programming languages. It is used extensively in computational and data science, and you will use it in almost all modules during your MSc studies. This self-guided course will help you to learn the basics of Python before your MSc journey.
 
-## How to run this course
+## How to run this course
 
 There are three possibilities for how you can learn Python with our self-guided course. **JupyterHub** and **Binder** options allow you to run tutorials in the cloud - you do not need to install anything, and no files will be created on your machine. All you need is a web browser and internet connection. However, you need to download Jupyter notebooks you worked in to ensure your work is not lost at the end of each session. The third option is to create a small Python environment and run all tutorials on your machine. There is no difference in what you will learn, and we give you complete freedom to choose how you want to run tutorials.
 
@@ -12,7 +12,7 @@ There are three possibilities for how you can learn Python with our self-guided 
 
 2. **Login to JupyterHub**. On the following link, you can access our JupyterHub server and log in using the GitHub account you just created. After login, it may take some time for JupyterHub to start, so please be patient.
 
-JUPYTERHUB_LINK
+ESE students [access this repository on JupyterHub here](https://jhub.ese.ic.ac.uk/presessional/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fese-msc%2Fpython_exercises&urlpath=lab%2Ftree%2Fpython_exercises%2F&branch=main).
 
 **IMPORTANT:** Please note that we do guarantee your work is backed up. Therefore, we strongly recommend downloading the notebook at the end of each session.
 
@@ -30,7 +30,7 @@ You can access Binder by clicking on the *Binder badge*:
 
 2. **Clone repository**. In Terminal (Linux and MacOS) or Command Prompt (Windows), navigate to the location where you want the course files to be and run
 ```
-$ git clone https://....
+$ git clone https://hithub.com/ese-msc/introduction-to-python
 ```    
 3. **Install Anaconda**. We recommend installation using conda package manager. If you do not already have it installed, download [Anaconda](https://www.anaconda.com/products/individual) Python 3 for your operating system and follow the instructions to install it. After the installation is complete, in Terminal (Linux and MacOS) or Anaconda Prompt (Windows), navigate to the course directory, create a new conda environment, and activate it using:
 ```
