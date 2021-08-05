@@ -14,7 +14,7 @@ There are three possibilities for how you can learn Python with our self-guided 
 
 ESE students [access this repository on JupyterHub here](https://jhub.ese.ic.ac.uk/presessional/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fese-msc%2Fpython_exercises&urlpath=lab%2Ftree%2Fpython_exercises%2F&branch=main).
 
-**IMPORTANT:** Please note that we do guarantee your work is backed up. Therefore, we strongly recommend downloading the notebook at the end of each session.
+**IMPORTANT:** Please note that we do not guarantee your work is backed up. Therefore, we strongly recommend downloading the notebook at the end of each session.
 
 ### 2. Binder
 
