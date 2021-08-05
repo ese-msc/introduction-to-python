@@ -12,7 +12,7 @@ There are three possibilities for how you can learn Python with our self-guided 
 
 2. **Login to JupyterHub**. On the following link, you can access our JupyterHub server and log in using the GitHub account you just created. After login, it may take some time for JupyterHub to start, so please be patient.
 
-ESE students [access this repository on JupyterHub here](https://jhub.ese.ic.ac.uk/presessional/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fese-msc%2Fpython_exercises&urlpath=lab%2Ftree%2Fpython_exercises%2F&branch=main).
+ESE students [access this repository on JupyterHub here](https://jhub.ese.ic.ac.uk/presessional/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fese-msc%2Fintroduction-to-python&urlpath=lab%2Ftree%2Fintroduction-to-python%2F&branch=main).
 
 **IMPORTANT:** Please note that we do not guarantee your work is backed up. Therefore, we strongly recommend downloading the notebook at the end of each session.
 
