@@ -2,7 +2,7 @@
 # are not considered dependencies. They are pip-installed
 # separately on CI.
 
-name: conda-environment
+name: introduction-to-python
 
 channels:
   - defaults
