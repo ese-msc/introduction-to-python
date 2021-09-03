@@ -102,23 +102,7 @@ test = {
                 },
                 {
                     'code': r"""
-                            >>> np.isclose(compute_velocity(2, 4, acc_array), 0.0820085591101)
-                            True
-                            """,
-                    'hidden': False,
-                    'locked': False
-                },
-                {
-                    'code': r"""
-                            >>> np.isclose(compute_velocity(3, 5, acc_array), 0.217477015351)
-                            True
-                            """,
-                    'hidden': False,
-                    'locked': False
-                },
-                {
-                    'code': r"""
-                            >>> np.isclose(compute_velocity(12, 21, acc_array), 62.3006966189)
+                            >>> np.isclose(compute_velocity(2, 10, acc_array), 0.69115419125176)
                             True
                             """,
                     'hidden': False,
