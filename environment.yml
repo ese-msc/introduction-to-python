@@ -1,6 +1,5 @@
-# Testing libraries (nbval, flake8, and flake8-nb)
-# are not considered dependencies. They are pip-installed
-# separately on CI.
+# Testing packages (nbval, flake8, and flake8-nb) are not considered
+# dependencies. They are pip-installed on CI.
 
 name: introduction-to-python
 
@@ -9,14 +8,11 @@ channels:
 
 dependencies:
   - pip
-  - python=3.8  # Python 3.9 also works, but we are being a bit conservative here.
+  - python=3.9  # Python 3.10 expected to work as well, but we are being conservative here.
   - pip:
-    - jupyter
+    - jupyterlab
     - numpy
     - matplotlib
     - pendulum
     - okpy
-    - pybryt>=0.1.8
-    - ipykernel==5.5.5
-    # There is a conflict between pybryt and ipykernel>=6.0.0 (released 2 July 2021).
-    # Because of that, we fix ipykernel version until version 6.* matures.
+    - pybryt>=0.7.0
