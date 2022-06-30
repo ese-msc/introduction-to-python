@@ -24,7 +24,7 @@ After login, it may take some time for JupyterHub to start for the first time, s
 
 You can access Binder by clicking on the *Binder badge*:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ese-msc/introduction-to-python/HEAD?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ese-msc/introduction-to-python/HEAD?labpath=index.ipynb)
 
 **IMPORTANT:** Please note that after the Binder session ends, all your work is deleted. Therefore, please download the notebook you worked in at the end of each session.
 
