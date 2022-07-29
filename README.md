@@ -14,7 +14,7 @@ There are three possibilities for how you can learn Python with our self-guided 
 
 2. **Login to JupyterHub**. By clicking the following badge, you can access our JupyterHub server and log in using the GitHub account you just created:
 
-[![JupyterHub](https://img.shields.io/badge/JupyterHub-ese--msc-orange)](https://jhub.ese.ic.ac.uk/presessional/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fese-msc%2Fintroduction-to-python&urlpath=lab%2Ftree%2Fintroduction-to-python%2F&branch=main)
+[![JupyterHub](https://img.shields.io/badge/JupyterHub-ese--msc-orange)](https://ese-jhub-pre-sess.westeurope.cloudapp.azure.com/pre-sess/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fese-msc%2Fintroduction-to-python&urlpath=lab%2Ftree%2Fintroduction-to-python%2F&branch=main)
 
 After login, it may take some time for JupyterHub to start for the first time, so please be patient.
 
