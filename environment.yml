@@ -8,7 +8,7 @@ channels:
 
 dependencies:
   - pip
-  - python=3.9  # Python 3.10 expected to work as well, but we are being conservative here.
+  - python=3.10
   - pip:
     - jupyterlab
     - numpy
@@ -16,3 +16,4 @@ dependencies:
     - pendulum
     - okpy
     - pybryt>=0.7.0
+    - pytest

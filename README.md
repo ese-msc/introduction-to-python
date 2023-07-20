@@ -49,14 +49,14 @@ $ jupyter notebook &
 
 ## Testing
 
-After (almost) each exercise, there are two cells containing some code. In those cells, we test your solution using two different testing packages:
+After (almost) each exercise, there are two cells containing some code. In those cells, we test your solution using two different methods:
 
 1. **PyBryt** analyses your solution and provides you feedback on what is correct in your implementation, as well as what might be wrong. Please read PyBryt's feedback carefully and address the `ERROR` messages by modifying your solution.
-2. **okpy** validates your final solution and provides you a mark for it.
+2. **assert** statements validate your final solution
 
 It is important to follow the instructions for each exercise exactly and do not change the names of variables, functions, or classes so that tests can analyse your code. Besides, please do not change the content of any of the testing cells.
 
-Although **PyBryt** provides much more detailed feedback, it is possible it complains about your code even though **okpy** confirms your code is correct. This is because PyBryt testing is based on comparing your solution to reference solutions. Since there is virtually an infinite number of alternative solutions, it is possible that your solution is not in our references. On the other hand, **okpy** looks at the final result of your code and if **okpy** is happy with your result, your code is correct and you do not have to address **PyBryt**'s error messages (if any).
+Although **PyBryt** provides much more detailed feedback, it is possible it complains about your code even though **assert** statement confirms your code is correct. This is because PyBryt testing is based on comparing your solution to reference solutions. Since there is virtually an infinite number of alternative solutions, it is possible that your solution is not in our references. On the other hand, assert statements check the final result of your code and if they do not raise an error, your code is correct and you do not have to address **PyBryt**'s error messages (if any).
 
 ## Support
 

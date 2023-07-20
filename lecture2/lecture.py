@@ -1,11 +1,5 @@
 import pybryt
 import pathlib
-from client.api.notebook import Notebook
-from client.api import assignment
-
-# OkPy settings
-args = assignment.Settings(server="clewolffautook21.eastus.cloudapp.azure.com/okpy")
-ok = Notebook("./lecture.ok", args)
 
 
 def pybryt_reference(lecture, exercise):
