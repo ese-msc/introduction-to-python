@@ -2,7 +2,7 @@
 
 Welcome to **Introduction to Python**! Python is one of the most popular and powerful programming languages. It is used extensively in computational and data science, and you will use it in almost all modules during your MSc studies. This self-guided course will help you to learn the basics of Python.
 
-This course consists of four lectures (1, 2, 3, and 4), and we strongly recommend completing them in that order.
+This course consists of 5 compulsory lectures (1, 2, 3, 4, and 5) and one optional (lecture 6). We strongly recommend completing them in that order.
 
 ## How to run this course
 
@@ -49,7 +49,7 @@ $ jupyter notebook &
 
 ## Testing
 
-After (almost) each exercise, there are two cells containing some code. In those cells, we test your solution using two different methods:
+After (almost) each exercise in the compulsory part of the course, there are two cells containing some code. In those cells, we test your solution using two different methods:
 
 1. **PyBryt** analyses your solution and provides you feedback on what is correct in your implementation, as well as what might be wrong. Please read PyBryt's feedback carefully and address the `ERROR` messages by modifying your solution.
 2. **assert** statements validate your final solution
